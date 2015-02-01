@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            MoMath
+tagline:          MoProblems
+description:      'The thougts of a raving mathematician'
+url:              "http://www.kevinhayeswilson.com"
+baseurl:          /
+
+author:
+  name:           "Kevin Hayes Wilson"
+  url:            https://twitter.com/khayeswilson
+
+paginate:         5
+
+# Custom vars
+version:          0.1
+
+github:  https://github.com/khwilson
+repo:    https://github.com/khwilson/blag
